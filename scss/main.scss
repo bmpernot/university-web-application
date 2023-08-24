@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+// Abstracts
+@import "abstracts/variables";
+
+// Vendors
+@import "vendors/bootstrap";
+@import "../node_modules/lightbox2/dist/css/lightbox.min.css";
+@import "../node_modules/@glidejs/glide/src/assets/sass/glide.core";
+@import "../node_modules/@glidejs/glide/src/assets/sass/glide.theme";
+
+// Base
+@import "base/typography";
+
+// Layout
+@import "layout/footer";
+@import "layout/header";
+@import "layout/navigation";
+
+// Components
+@import "components/button";
+@import "components/form";
+@import "components/house-card";
+
+// Pages
+@import "pages/houseforsale";
+@import "pages/houseforrent";
+@import "pages/home";
+
+//Themes
+@import "themes/theme";

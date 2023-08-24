@@ -1,0 +1,19 @@
+body#page-home {
+  #even {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: $tertiary-color;
+    .col-lg-9 {
+      text-align: right;
+    }
+  }
+
+  #odd {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    .btn {
+      margin-bottom: 15px;
+    }
+  }
+}

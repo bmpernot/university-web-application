@@ -1,0 +1,13 @@
+form {
+  background-color: $tertiary-color;
+  padding: 10px;
+  border-radius: 3px;
+  label {
+    color: #000;
+    .btn {
+      background-color: $secondary-color;
+      color: #FFF;
+      border: 0;
+    }
+  }
+}

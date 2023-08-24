@@ -1,0 +1,12 @@
+{
+  "name": "web-application-bmpernot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@glidejs/glide": "^3.4.1",
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1",
+    "lightbox2": "^2.11.3"
+  }
+}
